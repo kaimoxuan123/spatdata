@@ -1,5 +1,5 @@
-# awesome-transdata
-List of publicly available transportation data sets.
+# spatdata
+List of publicly available spatiotemporal data sets (e.g., transportation data).
 
 ### Traffic Speed Data Sets
 
